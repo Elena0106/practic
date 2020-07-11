@@ -1,0 +1,10 @@
+numpy==1.15.1
+jupyter==1.0.0
+ipython==6.5.0
+scikit-learn==0.19.2
+scipy==1.1.0
+matplotlib==3.0.0
+kaggle==1.4.7.1
+pandas==0.23.0
+seaborn==0.9.0
+osfclient==0.0.3
