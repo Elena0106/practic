@@ -1,5 +1,5 @@
 numpy==1.15.1
-jupyter_client==6.1.5
+jupyter==1.0.0
 ipython==6.5.0
 scikit-learn==0.19.2
 scipy==1.1.0
